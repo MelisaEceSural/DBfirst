@@ -1,0 +1,15 @@
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\bin\Debug\DbFirst_20190227.exe.config
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\bin\Debug\DbFirst_20190227.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\bin\Debug\DbFirst_20190227.pdb
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\bin\Debug\EntityFramework.dll
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\bin\Debug\EntityFramework.xml
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\obj\Debug\DbFirst_20190227.csprojAssemblyReference.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\obj\Debug\DbFirst_20190227.Form1.resources
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\obj\Debug\DbFirst_20190227.Properties.Resources.resources
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\obj\Debug\DbFirst_20190227.csproj.GenerateResource.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\obj\Debug\DbFirst_20190227.csproj.CoreCompileInputs.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\obj\Debug\DbFirst_20190227.csproj.CopyComplete
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\obj\Debug\DbFirst_20190227.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\ENTITY\DbFirst_20190227\DbFirst_20190227\obj\Debug\DbFirst_20190227.pdb
